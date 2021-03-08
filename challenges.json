@@ -1,0 +1,41 @@
+[
+    {
+        "type": "body",
+        "description": "Estique um dos seus braços com a palma da mão virada e puxe os dedos para cima",
+        "amount": 80
+    },
+    
+    {
+        
+        "type": "body",
+        "description": "Estique seu braço contra seu peito e o puxe-o utilizando o outro braço por 10 segundos",
+        "amount": 60
+
+    },
+
+    {
+        
+        "type": "body",
+        "description": "Com as duas mãos na parte de trás da cabeça, leva-a para baixo, alongando a parte de trás do pesoço",
+        "amount": 70
+    },
+
+    {
+        
+        "type": "eye",
+        "description":"Sentado, feche os olhos e cubra-os com as palmas da mão durante 2 minutos",
+        "amount": 98
+
+    },
+    {
+        "type": "eye",
+        "description":"Usando os polegares massageie a área abaixo das sombrancelhas em movimentos circulares por 15 segundos",
+        "amount": 140
+    },
+
+    {
+        "type": "eye",
+        "description":"Em algum ambiente aberto, olhe o mais longe que puder em quatro direções por 3 segundos e mexa o maxilar",
+        "amount": 200
+    }
+]
